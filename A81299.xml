@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrine and conversation of Iohn Baptist delivered in a sermon, at a visitation holden at Baldock, in the County of Hertford : Decemb. 9. 1641. Contradicted by many of the auditors. / By Hen. Denne, an unworthy Minister of Christ Iesus, at Pyrton in Hertfordshire.</title>
+            <author>Denne, Henry, 1606 or 7-1660?</author>
+         </titleStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81299</idno><idno type="EEBO-CITATION">99867340</idno>
+  <idno type="VID">119647</idno>
+  <idno type="EEBO-PROQUEST">2240929984</idno>
+  
+            <idno type="STC">Wing D1018</idno>
+            <idno type="STC">Thomason E1105_4</idno>
+            <idno type="STC">ESTC R208385</idno>
+            <idno type="PROQUEST">99867340</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867340e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119647)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 163:E1105[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrine and conversation of Iohn Baptist delivered in a sermon, at a visitation holden at Baldock, in the County of Hertford : Decemb. 9. 1641. Contradicted by many of the auditors. / By Hen. Denne, an unworthy Minister of Christ Iesus, at Pyrton in Hertfordshire.</title>
+                  <author>Denne, Henry, 1606 or 7-1660?</author>
+               </titleStmt>
+               <extent>[2], 80, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Badger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata on final leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">John, --  the Baptist, Saint --  Sermons --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119647:1"/>
+            <p>THE DOCTRINE AND CONVERSATION OF IOHN BAPTIST: Delivered in a Sermon, at a Visitation holden at <hi>Baldock,</hi> in the County of <hi>Hertford: Decemb.</hi> 9. 1641.</p>
+            <p>Contradicted by many of the Auditors.</p>
+            <q>
+               <bibl>
+                  <hi>Acts 24.14.</hi>
+               </bibl>
+               <p>By that way, which they call heresie, worship I the God of my fathers: beleeving all things that are written in the Law and the Prophets.</p>
+            </q>
+            <p>
+               <hi>By</hi> HEN. DENNE, <hi>an unworthy Minister of</hi> Christ Iesus, <hi>at</hi> Pyrton <hi>in</hi> Hertfordshire.</p>
+            <p>LONDON, Printed by THO. BADGER. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:119647:2"/>
+            <pb n="1" facs="tcp:119647:2"/>
+            <head>THE DOCTRINE And Conversation of IOHN BAPTIST.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Oly Brethren and Fathers, I am at this present time surprized with three pas<g ref="char:EOLhyphen"/>sions; with joy, with feare and with griefe; My sorrow, sympathizeth with yours. I am sorry in the first place, that you have not a wiser man to speake unto you, this day; especially so many sit<g ref="char:EOLhyphen"/>ting by: And for this I presume, you are as sorrowfull as I. I am right sorry in the second place, that I shall this day trouble you, with so large a discourse,
+<pb n="2" facs="tcp:119647:3"/>as neither the quantity, nor the quality of the day will well permit, as a reme<g ref="char:EOLhyphen"/>dy for this; Let me intreat your Chri<g ref="char:EOLhyphen"/>stian patience, to tire me: this is my griefe: my feare is, besides that ordina<g ref="char:EOLhyphen"/>ry feare, which doth usually follow me at such exercises; especially at extra<g ref="char:EOLhyphen"/>ordinary times, and in unaccustomed places: I have yet another feare, that I shall this day be mistaken, not that I feare the mistaking of my words, for that were to call your Iudgements into question; But I feare, least you should mistake the intentions of my heart, and that I shall be thought, to ayme at some particular persons. To cleare this, I call the searcher of all hearts, to record, before whom, I protest this day, that I ayme not at any mans per<g ref="char:EOLhyphen"/>son: But I desire to be free from envy and malice, and to be in perfect Chari<g ref="char:EOLhyphen"/>ty with all men. And I do here again protest, that what I shall speake, this day, is against the errors and vices, not against the persons of men. This is my
+<pb n="3" facs="tcp:119647:3"/>feare. My joy is founded, upon your fervent Charity, joyned with your sound Iudgement. In respect of your Charity, I account it, a part of my happinesse (seeing it is as it is) to speak before you, who will be ready to cover mine infirmities, and to pardon my fay<g ref="char:EOLhyphen"/>lings, and gently to admonish me, if any thing shall be amisse.</p>
+            <p>In respect of your Iudgement, I ac<g ref="char:EOLhyphen"/>count it a farther happinesse, that I have this day opportunity, to make confessi<g ref="char:EOLhyphen"/>on of my Faith, and to communicate my doctrine unto so learned, judicious and indifferent auditors: Which that I may do, I betake my selfe with speede, to a portion of Scripture, selected for this present occasion, written,</p>
+            <q>
+               <pb n="4" facs="tcp:119647:4"/>
+               <bibl>
+                  <hi>IOHN 5.35.</hi>
+               </bibl>
+               <p>He was a burning, and a shining Light, and ye were willing for a season, to re<g ref="char:EOLhyphen"/>joyce in his Light.</p>
+            </q>
+            <p>VVE reade in the first Chapter of Saint <hi>John's</hi> Gospell, verse 15. <hi>John bearing witnesse unto the Truth;</hi> and in my Text, <hi>The Truth beares wit<g ref="char:EOLhyphen"/>nesse unto John:</hi> In the 16 verse of this present Chapter, <hi>The Jewes refuse to beare witnesse unto the Lord Jesus,</hi> and here the Lord refuseth to beare witnes, unto the Iewes: <hi>Ye were willing for a season to rejoyce in his Light: Hee that confesseth me, him will I confesse; Hee that denieth me, him will I deny,</hi> Matth. 10.32.</p>
+            <p>This Text divideth it selfe, in some sort, like this auditory, into Minister and People: He and ye. In some sort it is (I hope) unlike, for here is a good Priest, a burning and shining Light,
+<pb n="5" facs="tcp:119647:4"/>this is the Ministers commendation. But there is a naughty, full of hypocri<g ref="char:EOLhyphen"/>sie, and inconstancy, willing for a sea<g ref="char:EOLhyphen"/>son to rejoyce in his Light. This is the Peoples reprehension. And in this you are (I hope) unlike, both good, both holy, if you are not, I wish you were; and I shall bow my knees, unto the Father, of our Lord Iesus Christ, that you may bee.</p>
+            <p>The Minister being the first and most worthy person in my Text, I may boldly presume to speake first of him, and in him to consider two things.</p>
+            <p>First, his Person.</p>
+            <p>Secodly, his Qualification.</p>
+            <p>In speaking of his Person, I will con<g ref="char:EOLhyphen"/>sider two things.</p>
+            <p>First, his name.</p>
+            <p>Secondly, his Office.</p>
+            <p>First of his Name, His name is <hi>John,</hi> so named by the Angell <hi>Gabriel,</hi> before his conception, <hi>Luke</hi> 1.13. <hi>John</hi> by interpretation, the grace, mercy, or fa<g ref="char:EOLhyphen"/>vour
+<pb n="6" facs="tcp:119647:5"/>of God, the son of <hi>Zacharias,</hi> by interpretation, <hi>Gods remembrance,</hi> and <hi>Elizabeth, the oath of God;</hi> to teach us that the manifestation of Gods mercy and Grace, dependeth on his Oath and promise. And this is that which bles<g ref="char:EOLhyphen"/>sed <hi>Zachary</hi> expresseth in his Song. To shew mercy to our Fathers, there he al<g ref="char:EOLhyphen"/>ludeth to the name of <hi>John:</hi> to re<g ref="char:EOLhyphen"/>member his holy Covenant, this is <hi>Zachary:</hi> the oath which he sware to our father <hi>Abraham,</hi> this is <hi>Eliza<g ref="char:EOLhyphen"/>beth, Luk.</hi> 1.72, 73.</p>
+            <p>I need not feare the want of matter, having to speak of this person, at whose Circumcision, the mouth of his dumb father was opened, and his tongue loo<g ref="char:EOLhyphen"/>sed, to speake so plaine and with such flowing eloquence, As never any man, and but one woman ever spake before, <hi>Luke</hi> 1.68.</p>
+            <p>But this shall suffice to have spoken of his name; I shall immediatly passe unto his Office, so soon as I shall put you (my brethren of the Laity) in
+<pb n="7" facs="tcp:119647:5"/>mind of one thing; and you my bre<g ref="char:EOLhyphen"/>thren of the Clergy, in mind of ano<g ref="char:EOLhyphen"/>ther: To you, my <hi>memento</hi> is, that you from hence observe, that a good and faithfull Minister is a gift of God, a pledge of his Grace and Mercy, to a people: I will set Shepheards over them, that shall feed them, <hi>Jer.</hi> 23.4. <hi>I will give you Pastors according to mine heart, that shall feed you with knowledge, and understanding, Jer.</hi> 3.15. Vnto ou (brethren) my petition is, that you la<g ref="char:EOLhyphen"/>bour to shew your selves true Pastors, sent of God in mercy, and not in judg<g ref="char:EOLhyphen"/>ment, that the people may have cause to rejoyce and blesse God for you; and be yee not like those idle and wicked shepheards, that eat the fat, and cloath themselves with the wooll, but feed not the flock, <hi>Ezek.</hi> 34.3.</p>
+            <p>Thus much for his Name. I come now to consider <hi>John's</hi> Office, which is set forth unto us, by the testimonies of Prophets, of an An<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell, of Evange<g ref="char:EOLhyphen"/>lists, and of the Son of God.</p>
+            <pb n="8" facs="tcp:119647:6"/>
+            <p>The first Prophets, <hi>Esay</hi> 40.3, 4, 5. <hi>A voyce of him that cryeth in the wilder<g ref="char:EOLhyphen"/>nessE; prepare yee the way of the Lord, make straight in the desert, a high way for our God,</hi> &amp;c.</p>
+            <p>Another Prophet is <hi>Malachy,</hi> Chap. 3.1. <hi>Behold, I send my Messenger before thy face,</hi> &amp;c. and chap. 4.5, 6. <hi>Behold, I send you Elijah the Prophet,</hi> &amp;c. There is also a third Prophet, for I must needs reckon his father <hi>Zachary,</hi> among the Prophets, <hi>Luk.</hi> 1.76. <hi>Thou child shalt bee called the Prophet of the Highest, for thou shalt go before the face of the Lord, to pre<g ref="char:EOLhyphen"/>pare his wayes, to give knowledge of Sal<g ref="char:EOLhyphen"/>vation to his people, in remission of sinnes.</hi> Thus far the Prophets.</p>
+            <p>The second testimony, is of the An<g ref="char:EOLhyphen"/>gell, <hi>Luke</hi> 1.15. <hi>He shall be great in the sight of God, and shall drinke neither wine, nor strong drink, and he shall be filled with the Holy Ghost from his mothers wombe, and many of the children of Israel, shall he turne to the Lord their God,</hi> &amp;c.</p>
+            <p>The third testimony is of the Evan<g ref="char:EOLhyphen"/>gelists,
+<pb n="9" facs="tcp:119647:6"/>as <hi>Mat.</hi> 3.3. <hi>This is he that was spoken of by the Prophet,</hi> &amp;c.</p>
+            <p>
+               <hi>Mark.</hi> 1.1. <hi>The beginning of the Gospel of Jesus Christ, the Son of God, As it is written; Behold I send my Messenger,</hi> &amp;c.</p>
+            <p>
+               <hi>Luke</hi> 3.3. <hi>He came into all the Coun<g ref="char:EOLhyphen"/>trey about Jordan, preaching the Baptism of Repentance,</hi> &amp;c.</p>
+            <p>
+               <hi>John</hi> 1.6, 7. <hi>There was a man sent from God, whose name was John,</hi> &amp;c.</p>
+            <p>The fourth testimony is of the ever<g ref="char:EOLhyphen"/>blessed Son of God, <hi>This is he of whom it is written: Behold I send my Messenger before thy face, Mat.</hi> 11.10. and verse 14. <hi>this is Elias;</hi> and my text, which is our Saviours approbation of <hi>John, He was a burning and a shining Light.</hi>
+            </p>
+            <p>And now what shall we thinke? How great was this man? of whom three Prophets, one Angell, foure E<g ref="char:EOLhyphen"/>vangelists, and the Son of God himself give such ample testimony? This is it that I entend to shew, the greatnes, and excellency of <hi>John's</hi> Office.</p>
+            <p>Why? How great is <hi>John?</hi> greater
+<pb n="10" facs="tcp:119647:7"/>than our Father <hi>Abraham?</hi> What? greater than <hi>Moses?</hi> greater than the Prophets? For answer to this, let us marke the words of our Saviour, <hi>Yea I say unto you, much more than a Prophet, Luk.</hi> 7.26. It was said of <hi>Gregory;</hi> that in respect of his Predecessors, hee was the worst; in respect of his Successors, he was the best. Something contrary may here be said of <hi>John;</hi> in respect of his Predecessors he was the greatest, in respect of his Successors hee was the least: For <hi>I say unto you, that among those that are borne of women, there hath not risen a greater than John the Baptist; notwithstanding, hee that is least in the Kingdome of Heaven, is greater than hee, Mat.</hi> 11.11. the least in the Kingdome of Heaven, that is, the Apostles and Mi<g ref="char:EOLhyphen"/>nisters succeeding them, in preaching the Gospell to the World. Though I confesse many have thought contrary. <hi>John</hi> is a middle person, betweene the Law and the Gospell, like the morning light, which is the beginning of the
+<pb n="11" facs="tcp:119647:7"/>day, lighter than the night; yet not so light as the noone day: Something like that day spoken of by the Prophet <hi>Zachary, Neither cleare nor dark, neither day nor night, Zach.</hi> 14.6. But we must stay here a while, are we not deceived? Was <hi>John</hi> greater than <hi>Moses? John did no Miracle, John</hi> 10.41. <hi>Moses</hi> did many, both in Egypt and in the Wil<g ref="char:EOLhyphen"/>dernesse.</p>
+            <p>I answer first, as we do not measure the true Church, so neither do we va<g ref="char:EOLhyphen"/>lue the dignity of persons, by Miracles.</p>
+            <p>I answer again, that <hi>John</hi> did no Mi<g ref="char:EOLhyphen"/>racle, is but an opinion of the people; and yet I will not speake of his Miracu<g ref="char:EOLhyphen"/>lous springing in the wombe of his mo<g ref="char:EOLhyphen"/>ther, at the salutation of the Virgin <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> the mother of our Lord. Is it not the greatest Miralce, to convert many to God? to give knowledge of Salva<g ref="char:EOLhyphen"/>tion? to shew light to them that sit in darknesse? If it be not a greater Mi<g ref="char:EOLhyphen"/>racle, to convert and raise up soules, than to cure bodies; to open spirituall
+<pb n="12" facs="tcp:119647:8"/>eyes, than to open bodily? How doth our Saviour say? greater things than these shal ye do, <hi>because I go to the Father, John</hi> 14.12. What are these greater things? but the conversion of the peoples and the plentifull gift of the Holy Ghost, through their preaching? Thus <hi>John</hi> workes Miracles; for many of the children of Israel shall he turne to the Lord their God; He shall turne the hearts of the fathers tothe children, and the disobedient to the Wisdom of the Iust: And in this respect, as in ma<g ref="char:EOLhyphen"/>ny others, may he be said, to come in the Spirit, and power of <hi>Elias;</hi> And thus it would, I suppose, bee no hard matter to prove, that <hi>John</hi> hath done a greater Miracle than <hi>Moses.</hi> But it may be objected, <hi>Moses</hi> hath a glorious office, that makes his face to shine, <hi>that the children of Israel cannot behold it, Exod.</hi> 34.30.</p>
+            <p>I answer, <hi>Moses</hi> his Office indeed was glorious, but <hi>John's</hi> more glorious, <hi>Moses</hi> was the beginning of a glorious
+<pb n="13" facs="tcp:119647:8"/>Law; But <hi>Iohn</hi> is the beginning of a more glorious Gospell. <hi>Mark.</hi> 1.1. To this purpose it is spoken by our Blessed Saviour; All the Prophets, and the Law, prophesied untill <hi>Iohn,</hi> but from <hi>the dayes of Iohn the Baptist, untill now, the Kingdome of Heaven suffereth vio<g ref="char:EOLhyphen"/>lence, Matth.</hi> 11.12.</p>
+            <p>Let Saint <hi>Paul</hi> speake more plaine 2 <hi>Cor.</hi> 3.9. <hi>If the missistration of condem<g ref="char:EOLhyphen"/>nation, be glory, much more shall the mini<g ref="char:EOLhyphen"/>stration of Righteousnes, exceed in glory. Moses</hi> is the Minister of condemnation, <hi>Iohn</hi> of Righteousnesse, <hi>Moses of</hi> death, <hi>John</hi> of life: But you will say, why then doth not <hi>Iohn's</hi> face shine? I an<g ref="char:EOLhyphen"/>swer, if you see not his face shine, it is because the lustre thereof hath daze<g ref="char:EOLhyphen"/>led your sense, or else because you are blind. <hi>Iohn,</hi> is a light, and the Ministers are a light: <hi>Mat.</hi> 5. and it is an innative property of light to shine. They shine not like <hi>Moses,</hi> with a terrible shining, but with an amiable countenance; they shine not like <hi>Moses,</hi> in the face alone,
+<pb n="14" facs="tcp:119647:9"/>but even from top to toe, their very feet are beautifull, being shod with the plentifull preparation, of the Gospell of peace. <hi>How beautifull are thy feet with shooes, O princes daughter? Cant.</hi> 7.1. <hi>How beautifull, upon he Mountaines, are the feet of him that bringeth good tidings of Good? that publisheth Salvation, that saith unto Sion, thy God raigneth? Esay</hi> 52.7.</p>
+            <p>And least any should say, that this is meant of Christ alone, and no other, Saint <hi>Paul</hi> hath provided, <hi>Rom.</hi> 10.14. <hi>How beautifull are the feet of them, that preach the Gospell of peace?</hi>
+            </p>
+            <p>Thus is <hi>Iohn</hi> greater than his Prede<g ref="char:EOLhyphen"/>cessors, but how is he lesse than his suc<g ref="char:EOLhyphen"/>cessors? lesse than the <hi>Apostles?</hi> lesse than the Ministers of the Gospell? If we say <hi>Iohn</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, But the Apostles are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Matth.</hi> 5.14. and that these two differ as the greater, and the lesse. This will prove a criticisme, not worth taking up, by the way side, for here we have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But the truth is,
+<pb n="15" facs="tcp:119647:9"/>that the doctrine of <hi>Iohn,</hi> and of the A<g ref="char:EOLhyphen"/>postles, differ, as the lesse, and greater perfection, as one starre differeth from another in glory: This is apparant in <hi>Apollos,</hi> of whom we read <hi>Act.</hi> 18.25, 26. He knew only the baptisme of <hi>Iohn.</hi> yet did he teach <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, diligently the things of the Lord, whom <hi>AQuila,</hi> and <hi>Priscilla,</hi> taking un<g ref="char:EOLhyphen"/>to them; expounded unto him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a more perfect way of God. This difference is plaine, and will yet be plainer; when we come to speake of the second thing, which is his qualification: But in the meane time I must intreate you holy brethren, dili<g ref="char:EOLhyphen"/>gently to ponder, two things,</p>
+            <p>First, the dignity of the Ministery of the Gospell.</p>
+            <p>Secondly, the diversity of the admi<g ref="char:EOLhyphen"/>nistration of the peace, and mercy of God, in his Church.</p>
+            <p n="1">1 The dignity of this calling, to be greater than <hi>Iohn,</hi> who is greater than the Prophets. <hi>Levi</hi> had an excellent
+<pb n="16" facs="tcp:119647:10"/>calling: Seemeth it but a small thing unto you, <hi>that the God of Israel, hath se<g ref="char:EOLhyphen"/>parated you, from the Congregation of Is<g ref="char:EOLhyphen"/>rael, to bring you neere unto himselfe? Num.</hi> 16.9. Let me speake boldly, the calling of the Ministry is greater than that of <hi>Levi: Levi</hi> draweth neare, the Minister of the Gospell nearer; having more boldnesse of accesse, unto the throne of Grace then <hi>Levi</hi> had. We are not separated to offer up the bloud of Buls, and Goats, and to burne In<g ref="char:EOLhyphen"/>cense, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, separated unto the Gospell, to feed the heritage of the Lord, with the precious body and bloud of our Lord Iesus Christ. Excellent is the calling of every Chri<g ref="char:EOLhyphen"/>stian: A chosen Generation, a Royall Priest-hood, an holy Nation, a peculi<g ref="char:EOLhyphen"/>ar People: yet it cannot be denied but the Minister of the Gospel hath his pre<g ref="char:EOLhyphen"/>heminence; All Christians are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But all are not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Oh that we would take care to walke worthy of the high calling, and feare to disgrace this ex<g ref="char:EOLhyphen"/>cellent office. I will be sanctified of
+<pb n="17" facs="tcp:119647:10"/>all them that draw neare unto me.</p>
+            <p>And you my brethren, may hence learne not to despise, but to reverence the calling of the Ministery, unto which the Saviour of the World hath granted such high Priviledges. We live in those dayes, when the Clergy is become <hi>O<g ref="char:EOLhyphen"/>dium populi:</hi> yet seeme we never so contemptible unto you, we are very necessary and profitable servants for you: Men, by whom all men ordina<g ref="char:EOLhyphen"/>rily beleeve, that beleeve. Let me aske you one question, What two things are most necessary for the being, and well being of man upon earth? The Ora<g ref="char:EOLhyphen"/>tor shall answer for you, <hi>Sol &amp; Sal,</hi> the Sun and the Salt: were it not for the Sun, what would become of the fruits of the earth? <hi>Of the precious fruits, by the Sun, and the precious fruits put forth by the Moon? Deu.</hi> 34.14. Were it not for salt, how unsavoury would all things be? Yea what cōpounded body could have subsistence? Now that we may know our duty, and you may see what neces<g ref="char:EOLhyphen"/>sity
+<pb n="18" facs="tcp:119647:11"/>there is of us: It hath pleased our Lord, to compare us to both these in one place: <hi>Ye are the Salt of the earth, ye are the Light of the World, Matt.</hi> 5.13.14. Wherefore let the counsell of an Apostle take place with you, 1 <hi>Thes.</hi> 5.12, 13. <hi>We beseech you brethren, that ye know them that labour among you, and are over you, in the Lord, and esteeme them very highly in love, for their works sake.</hi> If this be not prevalent with you, Let the warning of our Saviour be conside<g ref="char:EOLhyphen"/>red of you; <hi>He that despiseth you, despise me; and he that despiseth me, despiseth him that sent me, Luk</hi> 10.16.</p>
+            <p>This is the first thing. The 2, that I desired you to ponder, is: The diver<g ref="char:EOLhyphen"/>sity of the Administration of the grace of God, in the Church of God.</p>
+            <p>Gods mercy; grace and favour, to<g ref="char:EOLhyphen"/>wards the Church, hath always beene one, and the same, like himselfe un<g ref="char:EOLhyphen"/>changeable: yet hath it been the good pleasure of God, to manifest himselfe divers ways, at sundry times to the
+<pb n="19" facs="tcp:119647:11"/>Church. In respect of this Administra<g ref="char:EOLhyphen"/>tion, the Church may be divided, into three ages.</p>
+            <p>The first, from <hi>Adam</hi> to <hi>Moses.</hi>
+            </p>
+            <p>The second, from <hi>Moses</hi> to <hi>John Baptist.</hi>
+            </p>
+            <p>The third, from <hi>John Baptist</hi> to the end of the World.</p>
+            <p>What the state of the Church was, from <hi>Adam</hi> to <hi>Moses,</hi> to me seemeth very difficult to set downe: I know what some men say, but I dare deter<g ref="char:EOLhyphen"/>mine nothing, as not being able to give either my selfe, or you satisfaction herein.</p>
+            <p>From <hi>Moses</hi> to <hi>John Baptist,</hi> was the administration of the Law; the Cove<g ref="char:EOLhyphen"/>nant that God made with the people of Israel, <hi>when he tooke them by the hand to leade them out of Egypt, Jer.</hi> 31.32.</p>
+            <p>This Covenant hath its beginning upon <hi>Sinai,</hi> and its period at the preach<g ref="char:EOLhyphen"/>ing of <hi>John Baptist:</hi> Although that Cardinall <hi>Bellarmin</hi> cannot abide to heare, that <hi>John Baptist</hi> belonged to the
+<pb n="20" facs="tcp:119647:12"/>new Covenant; but that he was the last Minister of the old. But let us heare our Saviour, <hi>The Law and the Prophets continued untill John, Luk.</hi> 16.16. Since that time, the Kingdome of Heaven is preached, and every man presseth unto it: Let us heare what S. <hi>Marke</hi> speaketh, <hi>The beginning of the Go<g ref="char:EOLhyphen"/>spell of Jesus Christ,</hi> &amp;c.</p>
+            <p>And certainly <hi>John</hi> preached the Gospell, as will afterwards appeare.</p>
+            <p>From <hi>John Baptist</hi> to the end of the World, is the administration of the Go<g ref="char:EOLhyphen"/>spell or new Covenant; which admi<g ref="char:EOLhyphen"/>nistration hath its degrees of lesse and greater perfection, as also had the ad<g ref="char:EOLhyphen"/>ministration of the Law a difference: From <hi>Moses</hi> to the <hi>Temple,</hi> from the <hi>Temple</hi> to the <hi>Messiah,</hi> as some of the learned have observed.</p>
+            <p>So the Church under the Gospell is like the Moon, that from the new in<g ref="char:EOLhyphen"/>creaseth to the full, from the full de<g ref="char:EOLhyphen"/>creaseth to the wane, and so after in<g ref="char:EOLhyphen"/>creaseth to the full again. From the new
+<pb n="21" facs="tcp:119647:12"/>to the full, is from <hi>John Baptist</hi> to the day of <hi>Pentecost;</hi> from the full to the wane, is from the Apostles rime, till the revelation of Antichrist.</p>
+            <p>And now (Brethren) I would not have you thinke these to be idle specu<g ref="char:EOLhyphen"/>lations, toyes and trifles, not worth the diving after; let us not account those things idle, which the Lord hath thought meet to be revealed: whatso<g ref="char:EOLhyphen"/>ever was written, was written for our learning. Let us not, I say, account those things idle, the knowledge wher<g ref="char:EOLhyphen"/>of is so necessary for the interpretation, and reconciliation of holy Scripture; and by consequence, for the pacificati<g ref="char:EOLhyphen"/>on of distressed consciences, that with<g ref="char:EOLhyphen"/>out it, it is impossible either of these should be done:</p>
+            <p>
+               <hi>Distingue tempora, &amp; conciliabis Scri<g ref="char:EOLhyphen"/>pturas,</hi>
+            </p>
+            <p>Distinguish the times, and reconcile the Scriptures.</p>
+            <p>You know who said it, and without di<g ref="char:EOLhyphen"/>stinction of times; What confusion
+<pb n="22" facs="tcp:119647:13"/>comes to the Church? what distra<g ref="char:EOLhyphen"/>ction to distressed Consciences?</p>
+            <p>What is the reason, that amongst men professing the same Christ, and reading the same Scriptures, so many irreconcileable controversies, do dayly arise? is it not chiefly from hence that men distinguish not rightly betweene the Law and the Gospell? He that shall search into the most materiall Controversies, between the Protestant and the Papist, and look into the origi<g ref="char:EOLhyphen"/>nall of them, he shall find the error of the Papists to arise chiefly from hence; the want of distinction between Law and Gospell.</p>
+            <p>From this fountaine proceeded the troubles of the Church of <hi>Antioch, Acts</hi> 15. From this fountaine proceeded the Apostacy of the Church of <hi>Galatia:</hi> And from this fountaine proceed the perverse disputations of the Popish Schoolemen, about repentance. And what heresie is it that hath not a part, either more or lesse, in this?</p>
+            <pb n="23" facs="tcp:119647:13"/>
+            <p>There is at this day a complaint in our Countrey, that our Sermons are full of contradictions, the multitude observeth them, and grievously com<g ref="char:EOLhyphen"/>plaineth of them: And this is not the complaint of unlettered men, that know nothing: But of many that are able to render a good account of their Faith, both in City and Countrey: Let us se<g ref="char:EOLhyphen"/>riously weigh these things, and consi<g ref="char:EOLhyphen"/>der, whether they arise not from the foresaid error? It is the part of a faith<g ref="char:EOLhyphen"/>full Minister, to divide the word a<g ref="char:EOLhyphen"/>right, which in <hi>Martin Luther's</hi> exposi<g ref="char:EOLhyphen"/>tion, is aptly to distinguish betweene Law and Gospell. It was prophesied by <hi>Luther,</hi> that after his time the diffe<g ref="char:EOLhyphen"/>rence between the Law and Gospell, should be neglected.</p>
+            <p>Our age hath proved him too true a Prophet, for it is a thing not ordinarily observed.</p>
+            <p>But will some say, what? shall not the Law now be preached? I say not so. I wish we could heare it oftner than
+<pb n="24" facs="tcp:119647:14"/>we do: I know that the Law is good, if a man use it lawfully: but the fault is, not rightly to apply it; as when we apply it to troubled Consciences, to give satisfaction.</p>
+            <p>Let us take heed of mingling these two, and so producing a confounded and compounded doctrine: Let us not sow the Lords field with mingled seed, nor cloath them with a Linsey woolsy garment; for whom the Lord hath provided a vesture of fine linnen: Take we good heed that we propine not un<g ref="char:EOLhyphen"/>to the sheep of Christ waters, that we have pudled with our feet, <hi>Ezek.</hi> 34.19 What are pudled waters? What is a linsey woolsey garment? what is mingled seed? but confused and ob<g ref="char:EOLhyphen"/>scure doctrine? Oh, that I might pre<g ref="char:EOLhyphen"/>vaile with you (my Brethren) unto whom the Lord hath given ability, both inward and outward, for this worke; that you would undertake this taske, to make this difference knowne unto the Church of God; Many have
+<pb n="25" facs="tcp:119647:14"/>began this work, but none so far finish<g ref="char:EOLhyphen"/>ed, but that something is yet desired.</p>
+            <p>I have thought this to be the taske of the Angell that shall poure out his Viall upon the Sun, that power may be given unto it to scortch men, with fire: Howsoever let us thinke this within our selves, that he shall never prove a good Divine, nor that man a good Christian, that neglecteth this difference.</p>
+            <p>My Brethren of the Laity, will be ready to say, what meaneth all this? Is there so great a difference between the Law and the Gospel? What is the Law, but an old Gospell? And what is Gospell, but an old Law? What is Law but a thundering Gospell? and what is the Gospel but a faire speaking Law?</p>
+            <p>I will be bold to say, that they that teach you thus, know neither what they say, nor wherof they affirme. Tedious it would be to you, for to heare the se<g ref="char:EOLhyphen"/>verall differences of these two; I will
+<pb n="26" facs="tcp:119647:15"/>give you a tast, that so by it you may discerne the rest: The Gospell saith, <hi>The just shall live by Faith:</hi> the Law saith, <hi>The man that doth these things shall live in them, Gal.</hi> 3.11, 12.</p>
+            <p>Again the Law saith, <hi>The man that doth these things, shall live by them:</hi> The Gospell saith, <hi>That if thou confesse with thy mouth, the Lord Jesus, and bleeve in thine heart, that God hath raised him from the dead, thou shalt be saved, Rom.</hi> 10.5, 9.</p>
+            <p>The Law saith, <hi>He that breaketh the least Commandement shall dye, Galatians</hi> 3.10.</p>
+            <p>The Gospell saith, <hi>Jesus Christ came into the world to save sinners,</hi> 1 <hi>Tim.</hi> 1.15. 1 <hi>Joh.</hi> 2.1.2.</p>
+            <p>I will adde one instance more, by way of anticipation, of that which fol<g ref="char:EOLhyphen"/>lowes, it being part of the Doctrine of the <hi>Baptist: The Law was given by Moses, but Grace and Truth came by Jesus Christ, John</hi> 1.17.</p>
+            <p>Marke the opposition, <hi>Moses</hi> and
+<pb n="27" facs="tcp:119647:15"/>
+               <hi>Christ Jesus,</hi> Law, Grace, and Truth. Did not <hi>Moses</hi> preach Grace? No, <hi>Moses</hi> preacheth the Law of Workes, which promiseth mercy to the obedient; but to the transgres<g ref="char:EOLhyphen"/>sours (though never so small) Tri<g ref="char:EOLhyphen"/>bulation and anguish. Did not <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> speake truth? Yes according to Law and Conscience: but not ac<g ref="char:EOLhyphen"/>cording as the truth, is, and was, in Christ Iesus.</p>
+            <p>This was the hidden mystery, kept secret, since the world began: <hi>But now is made manifest, Rom.</hi> 16.25.</p>
+            <p>The mystery that the Prophets searched after, <hi>And the Angels desired to looke into,</hi> 1 <hi>Pet.</hi> 1.11, 12.</p>
+            <p>But you will say, <hi>Moses</hi> wrote of mee; True, so did all the Prophets write of CHRIST to come, but not present: And of Grace and Truth, hereafter to bee revea<g ref="char:EOLhyphen"/>led; But for the present not ma<g ref="char:EOLhyphen"/>nifested.</p>
+            <pb n="28" facs="tcp:119647:16"/>
+            <p>Thus much of the Person, now fol<g ref="char:EOLhyphen"/>lows his Qualification.</p>
+            <p>
+               <hi>A burning and shining light.</hi>
+            </p>
+            <p>Burning with zeale, Shining with knowledge, teaching us to joyne zeale to knowledge, and knowledge to zeale, and not in any case to separate these two.</p>
+            <p>Knowledge without Zeale, doth but a little good. Zeale without Knowledge, doth not a little hurt. Knowledge without Zeale, is like a ship that hath a true compasse, and per<g ref="char:EOLhyphen"/>fect sea cards, but wanteth sayles and masts: Zeale without Knowledge, is like a ship with extraordinary sayles, but without compasse or Pilot; whose sayling is dangerous.</p>
+            <p>Here might I justly take occasion to reprove some that shine, but they burn not. Like an <hi>Ignis fatuus.</hi> Others burne, but they shine not, like a candle under a bushell. Some neither burne, nor shine, whose light is darknesse: But if I should go in this path, I should
+<pb n="29" facs="tcp:119647:16"/>fayle of giving satisfaction to this lear<g ref="char:EOLhyphen"/>ned Auditory, and should come far short of the scope of my Text.</p>
+            <p>I must therefore steere in another course, and shew you two things.</p>
+            <p>First, how <hi>John</hi> did both burne and shine in his Doctrine.</p>
+            <p>Secondly, how <hi>John</hi> did both shine and burne in his Conversation.</p>
+            <p>First, <hi>John's</hi> Doctrine, was a bur<g ref="char:EOLhyphen"/>ning Doctrine: It is no new thing (I know) to you to heare of burning Do<g ref="char:EOLhyphen"/>ctrine, <hi>Did not our hearts burn within us? Iuke</hi> 24.32. <hi>This shall be with burning and fuell of fire, Esay</hi> 9. Is not my word a fire? Doctrine may well be compa<g ref="char:EOLhyphen"/>red to fire in two respects.</p>
+            <p>First, fire purisfieth the gold.</p>
+            <p>Secondly, consumes the drosse: He is like a refiners fire, and fullers sope; and he shall sit as a refiner, and purifier of silver. He shall purifie the sonnes of <hi>Levi,</hi> and purge them as gold, and sil<g ref="char:EOLhyphen"/>ver, <hi>Mal.</hi> 3.2, 3. Fire consumes the drosse: He shall burn as an Oven, and
+<pb n="30" facs="tcp:119647:17"/>all the proud, yea and all that do wick<g ref="char:EOLhyphen"/>edly, shall be as stubble, and the day commeth, that shall burne them up, <hi>Mal.</hi> 4.1.</p>
+            <p>Both these properties are in fewer words comprehended by the <hi>Baptist,</hi> speaking of our Saviour: <hi>Whose fanne is in his hand, and he shall thorowly purge his floore, and gather the wheat into his garner, but the chaffe shall he burne with unquenchable fire, Matth.</hi> 3.11, 12.</p>
+            <p>And thus must we prove that <hi>John's</hi> Doctrine was a burning Doctrine: be<g ref="char:EOLhyphen"/>yond the Law and the Prophets.</p>
+            <p>Secondly, shining Doctrine: it is the property of light to shine, and by shi<g ref="char:EOLhyphen"/>ning to discover whatsoever by reason of darknesse, before lay hid; <hi>All things that are reproved, are made manifest by the light, and whatsoever doth make ma<g ref="char:EOLhyphen"/>nifest is light, Eph.</hi> 5.13.</p>
+            <p>We must also shew you that <hi>John</hi> was a shining doctrine, revealing secrets and bringing hidden things to light. A Doctrine excelling in brightnesse the
+<pb n="31" facs="tcp:119647:17"/>Law and the Prophets. But before I enter upon this, I must speake a word of Exhortation to you all: Vnto you, holy Brethren and Fathers, whom the Father of our Lord Iesus Christ hath made Angels of the Churches, Stew<g ref="char:EOLhyphen"/>ards of the mysteries of the Gospell; This is for you, that you take heed to your doctrine, that it may be a shining doctrine; like the Pole-starre to the World; A doctrine revealing secrets; <hi>Bringing life and immortallity to Light.</hi> 2 <hi>Tim.</hi> 1.10.</p>
+            <p>
+               <hi>A burning Doctrine</hi>] Such as may purifie the Conscience from dead works, to serve the living God: <hi>The power of God unto salvation, Rom.</hi> 1.16. Vnto such doctrine, there are two things requisite.</p>
+            <p>First, that we lay a sure foundation.</p>
+            <p>Secondly, that we build rightly thereon, and made right application of this foundation.</p>
+            <p>I speake not these things (holy Bre<g ref="char:EOLhyphen"/>thren)
+<pb n="32" facs="tcp:119647:18"/>to teach you, by whom I defire rather to be taught; but that I may communicate my doctrine unto you, and give you an account, what course I have taken in preaching the Gospell, unto the people of God committed to my charge: And so much the rather, because my doctrine hath seldome or never been free from cavillations, and exceptions; and especially subject to this unjust report, that I would never dare to speake those things in publique, before the learned; which I have taught my people at home. I desire therefore to give you a briefe, and yet a faithfull account of my proceedings, before Almighty God and his people, whereof not a few know that I shall speake the truth.</p>
+            <p>First, therefore it hath been my care to lay a sure and sound foundation.</p>
+            <p>Accounting it better, to lay a foun<g ref="char:EOLhyphen"/>dation, and build nothing thereon, than to build castles in the Ayre without a foundation, which will quickly come to ruine: The foundation that I have
+<pb n="33" facs="tcp:119647:18"/>endeavoured to lay, is Iesus Christ; <hi>O<g ref="char:EOLhyphen"/>ther foundation can no man lay, than that which is already layd, Jesus Christ,</hi> 1 <hi>Cor.</hi> 3. <hi>He it is that is made unto us of God, Wisdome, and Righteousnesse, and Sancti<g ref="char:EOLhyphen"/>fication, and Redemption,</hi> 1 <hi>Cor.</hi> 1.30.</p>
+            <p>The foundation being layd, the next that follows is the right application of this foundation; and this is the greatest taske: For I find that the greatest dif<g ref="char:EOLhyphen"/>ference between the <hi>Protestant</hi> and the <hi>Papist,</hi> is not about the foundation, who it is, but about the true and right appli<g ref="char:EOLhyphen"/>cation of this foundation; How this Christ becoms ours, <hi>before, or in the sight of God;</hi> what learn'd <hi>Papist</hi> denies <hi>Christ</hi> to be the only foundation? What man so impudent, that subscribes not to the verity of this proposition? <hi>There is no other name under Heaven whereby men must be saved,</hi> &amp;c. Yet so great is their absurdity in the application, of this foun<g ref="char:EOLhyphen"/>dation, that they do no other thing but indirectly deny that which before they did directly confesse; And so cannot
+<pb n="34" facs="tcp:119647:19"/>shake from them that character of An<g ref="char:EOLhyphen"/>tichrist, to deny Christ comming in the flesh.</p>
+            <p>They imagine a Christ prepared of God for us, and (I dare not say given) sold unto us, upon certeine conditions, by us to be performed. They will say I do them wrong, I will therefore aske the wise <hi>Jesuite,</hi> How we come to bee partakers of Christs Righteousnesse? And I am sure I shall heare this answer, by Sacraments, by Pennance, Faith and other good Works, which are as meanes to apply Christ unto us.</p>
+            <p>This is the doctrine of the <hi>Papists.</hi> And I know you are not ignorant, that there is no small difference between the <hi>Protestants</hi> themselves about this mat<g ref="char:EOLhyphen"/>ter; I appeale to your judgements, how they differ from <hi>Papists,</hi> who say that Christs righteousnesse is made ours <hi>before God,</hi> by Faith and true Re<g ref="char:EOLhyphen"/>pentance, which is by them defined to be a sorrow for sin, and amendment of life: I frame this argument, That which
+<pb n="35" facs="tcp:119647:19"/>make Christs righteousnesse ours <hi>in the said of God,</hi> may be said truly to ju<g ref="char:EOLhyphen"/>stifie us, <hi>before God:</hi> or at least, to concur actively to our justification. But Faith, and sorrow for sin, with amendment of life, make Christs righteousnesse ours <hi>in the sight of God:</hi> Therefore (fearefull will be the conclusion.) Faith and sorrow for sin, with amendment of life justifie us before God or at least concurre actively to our justification. I beleeve you judge these, not to deserve the name of <hi>Protestants;</hi> Some <hi>Prote<g ref="char:EOLhyphen"/>stants</hi> holy men, do say that Christ is made ours <hi>(in the sight of God)</hi> by Faith alone: Christ being the garment, our Faith the hand that putteth this garm̄et on, yet me thinkes that heere is Christ set forth, upon some conditions, &amp; not so freely given: I must here professe my ignorance, that I cannot conceive, how faith should put on Christ, apply Christ or make Christ ours <hi>in the sight of God.</hi> I therefore professe my selfe openly, to leave unto them that say: that
+<pb n="36" facs="tcp:119647:20"/>Christs righteousnesse is made ours <hi>Coram Deo, before God,</hi> by Gods impu<g ref="char:EOLhyphen"/>tation, before the act of our Faith, and therefore necessarily without it. Even as our sins were made christs, so is his righteousnesse made ours. Now how were our sins made Christs? Let the Prophet <hi>Esay</hi> speake, the Lord laid on him the iniquity of us all: So that God, which calleth things that are not as though they were, makes us righ<g ref="char:EOLhyphen"/>teous by his imputation of Christs righteousnesse.</p>
+            <p>But it will be objected, <hi>How then is Faith said to justifie.</hi>
+            </p>
+            <p>I answer, if we take Faith for the ob<g ref="char:EOLhyphen"/>ject of our Faith (that is Christ) then Faith is properly said to justifie us, for by him we are justified, he being out righteousnesse.</p>
+            <p>If we take Faith for the act of our Faith, apprehending this object, then we are justified by it, declaratively in our Consciences.</p>
+            <p>So that by this that hath been said, it is plain how we may understand those
+<pb n="37" facs="tcp:119647:20"/>severall portions of holy Scripture.</p>
+            <p>First, <hi>It is God that justifieth, Rom.</hi> 8.33. <hi>Efficienter,</hi> as being the efficient cause of our Iustification.</p>
+            <p>Secondly, <hi>It is the bloud of Christ that justifieth, Rom.</hi> 5.9. Here is the materiall cause of our Iustification. Both these seeme to be comprehended in one, <hi>Wee are justified freely by his grace, Ephes.</hi> 2.8.</p>
+            <p>Thirdly, <hi>It is Faith that justifieth, Rom.</hi> 5.1. <hi>Declaratively,</hi> speaking to our Consciences, that we are the children of God, in Christ Iesus.</p>
+            <p>Fourthly, <hi>It is workes that justifie, James</hi> 2. That is, outwardly before men, in the judgement of Charity. By this that hath been said, we may resolve a question that is moved by some, <hi>How children can be saved, that do not beleeve.</hi>
+            </p>
+            <p>Some say by the habit of Faith, some by the Faith of their Parents, some say by an unknowne way.</p>
+            <p>But I say they are saved the same way that all flesh saved, <hi>that is saved,</hi>
+               <pb n="38" facs="tcp:119647:21"/>That is to say by the righteousnesse of Christ imputed: Here is the difference between the one and the other, men of discretion are not only saved, but also know their salvation, through a lively Faith: children are saved, but know not of it before. If now it shall be objected, that he that beleeved not, shall be damned. I answer first, that this maketh as much against my oppo<g ref="char:EOLhyphen"/>sers, as against me: for the Text saith, but he that beleveth not (that is, hath not faith in act) shall be damned.</p>
+            <p>Again, it saith, not He that hath not beleeving parents, <hi>But he that belee<g ref="char:EOLhyphen"/>veth not shall be damned.</hi>
+            </p>
+            <p>I answer in the second place, that this place <hi>(he that beleeveth not shall bee damned)</hi> is to be understood, of men and women of yeares of discretion: in whom finall unbeleefe is an infallible marke of eternall condemnation. Thus for the right application, of the foundation, the next thing is.
+<pb n="39" facs="tcp:119647:21"/>Having setled the conscience upon Christ Iesus, and given it rest upon the rock, to call for frail woolly repen<g ref="char:EOLhyphen"/>tance, <hi>I beseech you by the mercies of God,</hi> &amp;c. <hi>Rom.</hi> 12.1. <hi>Having these promises, let us cleanse our selves from all filthines both of flesh and Spirit,</hi> &amp;c. 2 <hi>Corinth.</hi> 7.1.</p>
+            <p>Let us, considering what hath been said, have a care to lay a sure foun<g ref="char:EOLhyphen"/>dation, and to make a right applica<g ref="char:EOLhyphen"/>tion, that we may cleare the way, un<g ref="char:EOLhyphen"/>to the distressed conscience, in the light of the knowledge of God. Far be it from us, to thinke the duty of a Minister discharged, by crying out a<g ref="char:EOLhyphen"/>gainst Sin, Drunkennesse, Adultery, and the rest.</p>
+            <p>These things are to bee done in their order: But wee must know that there is a difference between a Mi<g ref="char:EOLhyphen"/>nister of the Gospell, and a morall Phi<g ref="char:EOLhyphen"/>losopher, between <hi>Plato</hi> and <hi>Paul, Ari<g ref="char:EOLhyphen"/>stotle</hi> and <hi>Apollos.</hi>
+            </p>
+            <p>Alas what profits it to salvation? if wee have reclaimed men from sinne
+<pb n="40" facs="tcp:119647:22"/>to vertue, from drunkennesse to tempe<g ref="char:EOLhyphen"/>rance, &amp;c. not having laid before a sure foundation? have we brought them any whit neerer the Kingdome of Hea<g ref="char:EOLhyphen"/>ven? Nay have we not made them seven times more then children of Hell than they were before? <hi>Publicans and Harlots enter into the Kingdome of God before you.</hi>
+            </p>
+            <p>It is written of <hi>Robertus Gallus</hi> (who lived <hi>Anno</hi> 1290.) That he saw in a vi<g ref="char:EOLhyphen"/>sion, a goodly Bishop in a glorious cope, blessing the people: But he could see no head that this Bishop had: Hee went neerer to see and espied a head, but it was a wooden one, dry and with<g ref="char:EOLhyphen"/>out sense; when he desired to know the meaning of this vision, answer was made, That this was the doctrine of the Church of <hi>Rome;</hi> As the head is to the body, such is the foundation to the building; far be it from us to build without a foundation.</p>
+            <p>Far be it from us, to spend the time in prophane, and vaine babblings, in
+<pb n="41" facs="tcp:119647:22"/>fables and endlesse genealogies, which minister questions, rather than edifying.</p>
+            <p>We read of another Vision of <hi>Ro<g ref="char:EOLhyphen"/>bertus Gallus,</hi> that he saw the same Bi<g ref="char:EOLhyphen"/>shop as before; but now he was hanged all over with finest bread, and choysest wine; yet did he himselfe gnaw gree<g ref="char:EOLhyphen"/>dily upon a flint stone; <hi>Robertus</hi> desires to know the meaning of this, and an<g ref="char:EOLhyphen"/>swer was again made, that this was the manner of the Schoolemen, who spent themselves in frivolous and vaine dis<g ref="char:EOLhyphen"/>putations.</p>
+            <p>Take we good heed therefore, that (ha<g ref="char:EOLhyphen"/>ving such precious food as the Body &amp; Bloud of Christ) <hi>we give not a Scorpion to him that askes for a fish, a stone to him that lookes for bread, or poyson to him that is a thirst, and seeks for drink.</hi>
+            </p>
+            <p>To the people this is also a warning, what you should hunger, and thirst af<g ref="char:EOLhyphen"/>ter, even <hi>Burning and shining Doctrine.</hi> Such whereby ye may be built up in the knowledge of the Lord Iesus. When you hunt after eare-tickling Ser<g ref="char:EOLhyphen"/>mons,
+<pb n="42" facs="tcp:119647:23"/>vaine, if they seeme witty dis<g ref="char:EOLhyphen"/>courses: I may liken you to little chil<g ref="char:EOLhyphen"/>dren, which shall rather their mother should give them peares and plums, than wholesome food.</p>
+            <p>But it is high time to returne from whence I have digressed so long, and to shew you how <hi>Johns</hi> was a burning and shining doctrine.</p>
+            <p>A Burning Doctrine purifying the Conscience, consuming evill manners, and the opinion of mans own righte<g ref="char:EOLhyphen"/>ousnesse, and conceils of legall prero<g ref="char:EOLhyphen"/>gatives. Thinke not to say with your selves, <hi>We have Abraham to our Father. For I say unto you, that God is able of these stones to raise up children unto Abraham: and now also is the axe laid unto the root of the tree,</hi> &amp;c. <hi>Mat.</hi> 3.9, 10.</p>
+            <p>
+               <hi>A shining Doctrine, giving know<g ref="char:EOLhyphen"/>ledge of salvation in remission of sinnes, Luk.</hi> 1.77. pointing out the Son of God with the finger, <hi>Behold the Lamb of God, which taketh away the sinnes of the World,</hi> But me thinkes I heare you say, I may
+<pb n="43" facs="tcp:119647:23"/>spare this labour; wee grant <hi>John's</hi> to be a burning and a shining doctrine; but how did it burne and shine more than the Law?</p>
+            <p>I answer, <hi>The Law sanctifieth to the purifying of the flesh, Hebrews</hi> 9.13. <hi>John's</hi> Doctrine purifies the Con<g ref="char:EOLhyphen"/>science.</p>
+            <p>Secondly, the Law perfects no<g ref="char:EOLhyphen"/>thing as pertaining to the Consci<g ref="char:EOLhyphen"/>ence <hi>Heb.</hi> 10.1.</p>
+            <p>But <hi>John's</hi> Doctrine is a perfect<g ref="char:EOLhyphen"/>ing Doctrine: In so much that the beleevers herein have no more Con<g ref="char:EOLhyphen"/>science of sins: <hi>John's</hi> Doctrine is the bringing in of a better hope: That these things may be more plaine: We will consider, the difference of that Repentance, which was taught by the Prophets, from that Repentance, which was taught by <hi>John.</hi>
+            </p>
+            <p>First, for the Repentance Preached by the Prophets; There is a definition of Repentance, which is reprehended
+<pb n="44" facs="tcp:119647:24"/>by some (and justly, as comming short of that Repentance which is preached under the Gospell) it is this, <hi>Commissar flere, flenda non committere, To bewayle sinnes that we have committed or omitted, to forsake those that we have bewayled:</hi> This definition seemeth to me, to ex<g ref="char:EOLhyphen"/>presse to the full, that repentance which was taught by the Prophets: Especi<g ref="char:EOLhyphen"/>ally if we adjoyne purgation of sin by Sacrifice. <hi>He that confesseth and forsak<g ref="char:EOLhyphen"/>eth, shall have mercy, Prov.</hi> 28.13. <hi>Wash ye, make you cleane, put away the evil of your doings, cease to do evill, learne to do well, Esay</hi> 1.6. <hi>Amend your wayes and your doings, Jer.</hi> 7.3. This then is the Prophet's Repentance, to <hi>mourne</hi> for sins past, to <hi>joyne amendment</hi> to our mourning for the time to come. What is <hi>John's</hi> repentance more than this?</p>
+            <p>It is answered, <hi>John</hi> goes one step higher, and preacheth the <hi>Baptisme of Repentance,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>unto Re<g ref="char:EOLhyphen"/>mission of sins, Luk.</hi> 3.3.</p>
+            <p>I appeale to you whether it be not
+<pb n="45" facs="tcp:119647:24"/>better rendred <hi>unto Remission</hi> (in this place) then <hi>for Remission;</hi> and whether this word <hi>for,</hi> doth not something pervert the sence: as likewise, <hi>Luke</hi> 1.7.7. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I have warrant thus to reade it, from the holy and learned Translators; who upon the same words, <hi>Marke</hi> 1.3. have written <hi>unto</hi> in the margent. As also they have most faithfully rendred these words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Repentance unto life, Acts</hi> 11.18.</p>
+            <p>I have also other authority so to translate this place, not only from the <hi>Latine</hi> translations which agree in this; in <hi>Remissionem paeceatorumn:</hi> But also by <hi>Elfricus</hi> (sometimes Arch-bi<g ref="char:EOLhyphen"/>shop of <hi>Canterbury, Anno</hi> 996.) who translates the preposition <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by the <hi>Saxon <hi>On, On Synna,</hi> forgiftnesse.</hi> Now what is this Repentance unto Re<g ref="char:EOLhyphen"/>mission? <hi>Paenitentiam agite,</hi> so the vulgar: But we like it not, and let not any thinke the matter small: for <hi>Ari<g ref="char:EOLhyphen"/>stotle</hi> tels us, that one absurdity opens
+<pb n="46" facs="tcp:119647:25"/>the doore to a thousand: And I have read of one scabbed sheep brought out of <hi>Spaine,</hi> that was the originall of a ge<g ref="char:EOLhyphen"/>nerall murrain throughout <hi>England:</hi> we must take heed of small matters: What then? <hi>Recipiscite,</hi> so <hi>Beza,</hi> and I like it well: provided that I may have liberty to <hi>English</hi> it thus; Repent (that is) be of another mind, seek not by le<g ref="char:EOLhyphen"/>gall ways to establish your righteous<g ref="char:EOLhyphen"/>nesse; Droope no longer under the spirit of bondage, but beleeve the full remission of your sins, in Iesus Christ that commeth after: This glosse is warranted, <hi>Acts</hi> 19.4. <hi>John verily Ba<g ref="char:EOLhyphen"/>ptized with the Baptisme of Repentance, saying, that they should beleeve in him that should come after, that is in Christ Iesus:</hi> Thus <hi>Iohn</hi> makes low the moun<g ref="char:EOLhyphen"/>taines, cuts off legall prerogatives, and bringeth down every high imagination and every thought that exalteth it selfe against God.</p>
+            <p>Thus <hi>John</hi> lifts up the valleys, com<g ref="char:EOLhyphen"/>forts the drooping soule, by giving
+<pb n="47" facs="tcp:119647:25"/>them knowledge of Salvation in Re<g ref="char:EOLhyphen"/>mission of sins; This is <hi>Iohn's</hi> Repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>And upon these grounds (I beleeve) it is that those worthies since <hi>Luther's</hi> time have set forth unto us Repentance, consisting of these two parts.</p>
+            <p>First, Contrition for sin.</p>
+            <p>And secondly, Faith in the Lord Iesus.</p>
+            <p>Or as a worthy Countreyman of our own three parts.</p>
+            <p>First, Contrition.</p>
+            <p>Secondly, Faith.</p>
+            <p>Thirdly, new Obedience.</p>
+            <p>Although if wee would speake more properly, we must say, that new Obedience is a fruit worthy Repen<g ref="char:EOLhyphen"/>tance, and rather a consequent of Re<g ref="char:EOLhyphen"/>pentance. Divers whom I honor much will not admit that Faith should be a part of Repentance; But do assigne un<g ref="char:EOLhyphen"/>to Repentance these two parts.</p>
+            <p>First, Mortification.</p>
+            <p>Secondly, Vivification.</p>
+            <pb n="48" facs="tcp:119647:26"/>
+            <p>Here is a controversie verball, but none reall. For what is true mortifica<g ref="char:EOLhyphen"/>tion, but the apprehension of sin slaine by the body of Christ. What is Vivi<g ref="char:EOLhyphen"/>fication but our new life? The just shall live by Faith. I have observed some to confine Repentance, within the bounds of our conversation, and make no difference between the Re<g ref="char:EOLhyphen"/>pentance which was taught by the Pro<g ref="char:EOLhyphen"/>phets, and that Repentance which was taught by the Son of God, and his Mi<g ref="char:EOLhyphen"/>nisters. Whose error doth sufficiently appeare by that which hath been alrea<g ref="char:EOLhyphen"/>dy spoken. Their repentance it is ra<g ref="char:EOLhyphen"/>ther <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, than <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: I know this seem strange to some: and yet wil they uill they, they must agree with men in this, that Faith is a part of true Repentance. Otherwise, What will become of that Doctrin, so often heard in your Pulpists: Namely, that Repen<g ref="char:EOLhyphen"/>tance washeth away sin?</p>
+            <p>I demand how and where? Out <hi>of the sight of God?</hi> No, <hi>It is God that wa<g ref="char:EOLhyphen"/>sheth,
+<pb n="49" facs="tcp:119647:26"/>It is God that justifieth:</hi> as before. <hi>And the bloud of Jesus Christ washeth us from all sin.</hi> How then doth Repen<g ref="char:EOLhyphen"/>tance wash away sins out of the Con<g ref="char:EOLhyphen"/>science? This is Faith's office to purge the Conscience, by declaring the fa<g ref="char:EOLhyphen"/>vour of God in Christ Iesus. And nei<g ref="char:EOLhyphen"/>ther the office of sorrow, or reformati<g ref="char:EOLhyphen"/>on, which may purge the conversation, but not the Conscience.</p>
+            <p>So then, either make Faith a part of true Repentance, or else this Doctrine will fall quit to the ground and be true in no sence; unlesse in the judgment of Charity, whereby we censure one another: To preach that teares do wash away sins, out of the sight of God (which I have heard some testifie, that they have heard preached) is Blasphe<g ref="char:EOLhyphen"/>my against the precious Bloud of Christ.</p>
+            <p>Besides the hideous effects that this Doctrine works in the Church of God: for the simple people being asked how they thinke to make satisfaction of God
+<pb n="50" facs="tcp:119647:27"/>for sin, They have answered by lamen<g ref="char:EOLhyphen"/>ting and amending: Good people hearken, it is dying, not crying, that must give satisfaction for sins: With<g ref="char:EOLhyphen"/>out bloud there is no remission. And it is not the bloud of buls or goats, or the flouds of teares that can give satisfacti<g ref="char:EOLhyphen"/>on, but only that water and bloud, that issued from the side of a wounded Sa<g ref="char:EOLhyphen"/>viour.</p>
+            <p>Thus <hi>John</hi> preached remission of sins, as farther appeares: <hi>John's Bap<g ref="char:EOLhyphen"/>tisme</hi> was the same with the Apostles; But this Baptisme sealed remission to e<g ref="char:EOLhyphen"/>very beleever: Therefore also that.</p>
+            <p>This argument is prevalent with you, though Cardinall <hi>Bellarmine</hi> make a tush at it, by denying the major. But you will say, how doth it yet appeare that <hi>John</hi> burned or shined, more than the Law or the Prophets? Did not they also preach <hi>Remission of sins</hi> upon true Repentance?</p>
+            <p>I answer, the Prophets must be con<g ref="char:EOLhyphen"/>sidered, preaching, either the New
+<pb n="51" facs="tcp:119647:27"/>Covenant or the Old, for they preach<g ref="char:EOLhyphen"/>ed the New also: The Law did not, could not disannull the Covenant that was made to <hi>Abraham,</hi> 430 yeares before: In the New Covenant the Prophet preacht <hi>Eternall remission, but not yet Actuall:</hi> In the Old Covenant they preach't <hi>Actuall remission by legall services, but not Eternall:</hi> Which remis<g ref="char:EOLhyphen"/>sion is called by the Apostle a fleshly purifying.</p>
+            <p>To make these things more plaine, take this proposition (which I know will tingle in the eares of many) <hi>The knowledge of both, Actuall and Eter<g ref="char:EOLhyphen"/>nall remission, was no article of the Jewish Creed: but a part of that mystery which was kept secret from the giving of the Law, untill the time of John Baptist.</hi> To prove this I might bring this place, <hi>No man hath seen God at any time: the only begotten Son, which is in the bosome of the Father, he hath declared him, John</hi> 1.18. As also this, <hi>God who hath com<g ref="char:EOLhyphen"/>manded the Light to shine out of Darke<g ref="char:EOLhyphen"/>nesse,
+<pb n="52" facs="tcp:119647:28"/>hath shined in our hearts the light of the knowledge of the glory of God in the face of Jesus,</hi> 2 <hi>Cor.</hi> 4.6. with many places more of like nature: But to spare a labour I betake my selfe unto places more plaine.</p>
+            <p>The first, <hi>Gal.</hi> 4.1. <hi>The heire so long as he is a child differeth nothing from a servant, though he be Lord of all.</hi> Who are the <hi>heires under age?</hi> Even the Iews, untill the fulnesse of time came, that God sent forth his Son, <hi>&amp;c.</hi> They were the heires under age, that differed not from servants: Now I say, They that had knowledge of <hi>actuall and eter<g ref="char:EOLhyphen"/>nall remission, differed from servants:</hi> they that <hi>differed nothing from servants,</hi> had not knowledge <hi>of actuall and eter<g ref="char:EOLhyphen"/>nall remission.</hi>
+            </p>
+            <p>The second place is, <hi>Gal.</hi> 4.25. <hi>Jeru<g ref="char:EOLhyphen"/>salem that now is in bondage with her chil<g ref="char:EOLhyphen"/>dren:</hi> They, which were in bondage had not knowledge of <hi>Actuall and Eter<g ref="char:EOLhyphen"/>nall remission,</hi> which is the greatest free<g ref="char:EOLhyphen"/>dome: They which had knowledge
+<pb n="53" facs="tcp:119647:28"/>of <hi>both, actuall and eternall remission were not in bondage.</hi>
+            </p>
+            <p>But if any shall say, they differ from servants, because they had knowledge of <hi>actuall remission to come by the pro<g ref="char:EOLhyphen"/>mised seed.</hi>
+            </p>
+            <p>I answer, that this was acknowledged that they should hereafter differ from servants, which they did not yet for the present.</p>
+            <p>Again, if any say that the bondage of the Iews was not a <hi>Bondage of Consci<g ref="char:EOLhyphen"/>ence,</hi> but a <hi>Yoake of Ceremonies.</hi>
+            </p>
+            <p>I answer yes; Even a <hi>Bondage of Conscience,</hi> which stung their hearts; for (besides the authority of interpre<g ref="char:EOLhyphen"/>ters) it is said <hi>that the children through feare of death were subject to bondage all their lives long, Heb.</hi> 2.15. Had this bondage been outward, and carnall, it would have made Life sweet and Death bitter: for so we read, <hi>Ezod.</hi> 1.14. <hi>They made their lives bitter through hard bon<g ref="char:EOLhyphen"/>dage, in morter and brick and all manner of service:</hi> But this is a bondage that
+<pb n="54" facs="tcp:119647:29"/>makes life sweet, and death bitter: What is it that makes death bitter, but the sting of death? And what is the sting of death, but sin? Wherefore they had conscience of sin.</p>
+            <p>I aske in the third place, whether the Iews <hi>between Moses and John Baptist,</hi> were not under the Law? That they were under the Law, is proved, <hi>Gal.</hi> 3.23, 24. <hi>But if under the Law then under the curse: Gal.</hi> 3.10. To this we may adde, <hi>Heb.</hi> 11.39. Now may we ob<g ref="char:EOLhyphen"/>serve the difference of the promulgati<g ref="char:EOLhyphen"/>on of the New Covenant: In the time of <hi>Adam: The seed of the Woman shall break the Serpent's head, Gen.</hi> 3.15.</p>
+            <p>To <hi>Abraham, in thy seed shall all the nations of the earth be blessed.</hi>
+            </p>
+            <p>In <hi>Esays</hi> time, <hi>by his knowledge shall my righteous servant justifie many, Esay</hi> 5.3.</p>
+            <p>In <hi>Moses</hi> time, <hi>a Prophet shall the Lord your God raise up unto you, like unto me, &amp;c.</hi>
+            </p>
+            <p>In <hi>Daniel's</hi> time, 70 <hi>weekes are deter<g ref="char:EOLhyphen"/>mined
+<pb n="55" facs="tcp:119647:29"/>upon thy people and upon thy holy City, to finish transgression, to make an end of sins, to make reconciliation for ini<g ref="char:EOLhyphen"/>quity, to bring in everlasting righteousnes, and to seale up the Vision and Prophecy, and to annoynt the most holy.</hi>
+            </p>
+            <p>Thus the Prophets speak of a thing to come; far off. But if any say: they speake sometimes in the present, and preterperfect tense.</p>
+            <p>I answer with S. <hi>Peter,</hi> That <hi>not unto themselves, but unto us, they did mini<g ref="char:EOLhyphen"/>ster those things,</hi> 1 <hi>Pet.</hi> 1.12.</p>
+            <p>
+               <hi>John</hi> speakes of the time hard at hand, or present, <hi>The Kingdome of God is at hand: Behold the Lamb of God,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>that taketh up the sins of the World:</hi> that beareth them upon his shoulders; for I desire you to consider whether there be not a difference between <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: I will herein determine no<g ref="char:EOLhyphen"/>thing.</p>
+            <p>The Apostles after our Saviours Ascention, speake as of a thing actually past and done: shewing plainly the
+<pb n="56" facs="tcp:119647:30"/>way and meanes, whereby the Son of God hath purged and sanctified his Church; <hi>Himselfe bare our sins upon the tree,</hi> 1 <hi>Pet.</hi> 2.24.</p>
+            <p>
+               <hi>By one offering he hath perfected for ever them that are sanctified, Hebrewes</hi> 16.14.</p>
+            <p>Thus in <hi>John</hi> is begun, in the Apo<g ref="char:EOLhyphen"/>stles is fulfilled that Prophecy, <hi>The light of the Moon shall be as the light of the Sun, and ye as the light of seven dayes to<g ref="char:EOLhyphen"/>gether:</hi> As the Sun in light and glory excelleth the Moon, so do the times of the Gospel excell the Law, in the reve<g ref="char:EOLhyphen"/>lation of the glorious face of the Lord Iesus.</p>
+            <p>There are I confesse many difficul<g ref="char:EOLhyphen"/>ties in the way, but I have not now leasure to remove them. The greatest is, in that the Iews are said to <hi>eat the same spirituall meat, and drinke the same spirituall drink,</hi> 1 <hi>Cor.</hi> 10.3, 4.</p>
+            <p>But I answer, they did eat the same meat, but not after the same manner, for they did eat Christ to come, not
+<pb n="57" facs="tcp:119647:30"/>present and so they did beleeve <hi>actuall and eternall remission of sinnes to come, not present.</hi>
+            </p>
+            <p>Thus much of <hi>John's Doctrine;</hi> Now follows his <hi>Conversation: Bur<g ref="char:EOLhyphen"/>ning and Shining.</hi>
+            </p>
+            <p>First, His burning Zeale and Cha<g ref="char:EOLhyphen"/>rity.</p>
+            <p>Secondly, His shining Piety.</p>
+            <p>First, of his Zeale: 1 Negatively, and secondly, affirmatively.</p>
+            <p>First, Negatively, what Zeale <hi>John</hi> had not; for here is a block in the way and it is broader than may be stept o<g ref="char:EOLhyphen"/>ver. Consider we the place of his a<g ref="char:EOLhyphen"/>bode, <hi>John</hi> lived in the desert, What have we here, <hi>Johannes Eremitarum Princeps? John</hi> founder of the order of Heremits? So he hath been stiled long ago.</p>
+            <p>Among the 100 orders of religion a<g ref="char:EOLhyphen"/>mong the <hi>Papists,</hi> I find none more contrary to Charity than this. <hi>How good and pleasant a thing it is, brethren, to dwel together in unity, Psal.</hi> 133.1.</p>
+            <pb n="58" facs="tcp:119647:31"/>
+            <p>But they will object; Do not <hi>Elias</hi> and <hi>John,</hi> forsaking the company of men, embrace the desert?</p>
+            <p>I answer, <hi>Elias</hi> lives indeed in the desart, for feare of persecution: was it not time to fly to the wildernesse, when <hi>Ahab</hi> takes an oath of all lands? Was it not time, when <hi>Jezabel</hi> sweares by her Gods, that she would make him like one of <hi>Baals</hi> prophets, by to mor<g ref="char:EOLhyphen"/>row this time? So do we reade of many that in this case imbrace the de<g ref="char:EOLhyphen"/>sert <hi>Heb.</hi> 11. Thus much for <hi>Elias.</hi>
+            </p>
+            <p>As for <hi>John</hi> we say he lived not in the wildernesse, <hi>properly</hi> so called, but in his fathers house; in the Hill countrey of <hi>Judea;</hi> which in respect of the bar<g ref="char:EOLhyphen"/>rennesse thereof, was called the wil<g ref="char:EOLhyphen"/>dernesse: thus say <hi>Magdeburgenses, Bu<g ref="char:EOLhyphen"/>ter</hi> and <hi>Zuinglius.</hi>
+            </p>
+            <p>And this exposition, is not built up<g ref="char:EOLhyphen"/>pon bare conjectures; for we reade <hi>Io<g ref="char:EOLhyphen"/>sua</hi> 15.61. <hi>Sixe Cities in the wildernesse, Betharabah, Middin, Secacah, Nibshan, the City of Salt and Engedi.</hi>
+            </p>
+            <pb n="59" facs="tcp:119647:31"/>
+            <p>So might <hi>John</hi> live in the Desert, and yet within the wals of a City. Wherefore, O ye <hi>Papists!</hi> go seeke some other Patrons for this your will worship, <hi>John</hi> and <hi>Elias</hi> will not serve your turne.</p>
+            <p>Thus much for the Negative, now follows in the affirmative of Zeale <hi>John</hi> had.</p>
+            <p>Great Zeale will here appeare, if we consider the matter of <hi>John's</hi> preaching together with the time. Of the matter sufficient hath been said before. The time, the 15 yeare of <hi>Tiberius,</hi> a wicked Emperor, when <hi>Herod</hi> was Tetrarch, at such a time when truth seemed to have left the earth.</p>
+            <p>What may <hi>John</hi> say, shall I preach, or shall I forbeare? If I forbeare; I shall enjoy ease and quiet, with my fa<g ref="char:EOLhyphen"/>thers possessions.</p>
+            <p>But I preach, oh what a floud of troubles? what a sea of evils is like to overwhelme me? <hi>Tiberius</hi> is now Em<g ref="char:EOLhyphen"/>peror, a stranger to God, &amp; good man<g ref="char:EOLhyphen"/>ners.</p>
+            <pb n="60" facs="tcp:119647:32"/>
+            <p>A Senate he hath, wise in their own conceits, but so far addicted to supersti<g ref="char:EOLhyphen"/>tion, that they have it as a Law, that nothing shall be admitted in Religion, which hath not first been voted by them. But suppose that they being a great way of care not for these things. Here is <hi>Herod</hi> the tetrarch, from whom I looke for no good entertainment; for <hi>I am no better than the Prophets that went before.</hi>
+            </p>
+            <p>But suppose all these to be calme, and say nothing; What perils are there in mine own Nation? The <hi>Sadduces</hi> deny the Resurrection; the <hi>Pharisees</hi> after whose pipe the people dance; <hi>A generation of Vipers, a brood of Hipocrits.</hi> They will surely cry out against me for a blasphemer of God, <hi>Moses,</hi> A setter forth of new worship. Let reason judge, if here be not cause enough to stop a Ministers mouth, and to make him say, <hi>I will not speake:</hi> Yet notwith<g ref="char:EOLhyphen"/>standing all this, the <hi>Baptist</hi> puts on courage, consults not with flesh and
+<pb n="61" facs="tcp:119647:32"/>bloud, but goes on, boldly in his work; And saith thus within himselfe; <hi>Let Tiberius rage, the Senate chafe, the Sad<g ref="char:EOLhyphen"/>duces cavill, the Pharisees persecute; I know whom I serve, I will declare thy name O God.</hi>
+            </p>
+            <p>What doth this teach us, but to put on this Zeale and courage, to preach in season and out of season, not sparing any paines? But thou wilt say, They will not endure sound Doctrine, they will persecute me; Heare Saint <hi>Paul,</hi> 2 <hi>Tim.</hi> 4. <hi>Endure thou afflictions, do the work of an Euangelist, make full proofe of thy Ministery:</hi> Thou wilt say, they will kill me. Say thou with Saint <hi>Paul, I am ready to be offered, and none of these things move me, neither count I my life deare unto me, Acts</hi> 20.24.</p>
+            <p>What is become of Apostolicall Zeales of primitive courage? When we are so carefull and so fearefull, that we dare not informe truly, rebuke bold<g ref="char:EOLhyphen"/>ly, for feare of displeasing our Patrons, for feare of loosing, or hope of getting
+<pb n="62" facs="tcp:119647:33"/>preferments. Let us put on resolution and go forward boldly, like men, that neither care to rise, nor feare to fall.</p>
+            <p>Thus much of <hi>John's Zeale,</hi> now fol<g ref="char:EOLhyphen"/>lows his <hi>Piety,</hi> Considered,</p>
+            <list>
+               <item>First, Negatively.</item>
+               <item>Secondly, Affirmatively.</item>
+            </list>
+            <p>First, Negatively, A Conversation without covetousnesse, which appeares from his habitation, the Wildernesse; He follows not the Courts of Kings and Princes: Here is no suter for pre<g ref="char:EOLhyphen"/>ferments, no Simonaicall intruder, no parasiticall flatterer; But with the noble woman of <hi>Shunem, He will dwell among his own people,</hi> 2 <hi>Kings</hi> 4.13. Here is a pattern for our imitation; accord<g ref="char:EOLhyphen"/>ing to the precept, <hi>Let your conversation be without covetousnesse, Heb.</hi> 13.5. And <hi>thou, O man of God fly these things,</hi> 1 <hi>Tim.</hi> 6.11. Let us set before our eyes the holy contempt of earthly things, which we find in the Apostles of our Lord and Saviour! Remarkable is that of S. <hi>Peter, Silver and gold have! none, Acts</hi>
+               <pb n="63" facs="tcp:119647:33"/>3.6. The worldling will say, more foole Saint <hi>Peter:</hi> for we read <hi>Acts</hi> 2. That the <hi>possessors of land sold them, and distribution was made to every one ac<g ref="char:EOLhyphen"/>cording to his need:</hi> What? Is none fallen to Saint <hi>Peter's</hi> share, or rather hath he reserved nothing for himselfe? even nothing: As it is better to make a King than to be a King; So better it is to make many rich, than to be rich. See what a difference there is between <hi>Peter,</hi> and that man on earth, who glories so much in <hi>Peter's</hi> chaire: Of whose getting there is no end, whose treasures are without weight and num<g ref="char:EOLhyphen"/>ber, whose triple Crown had one Iew<g ref="char:EOLhyphen"/>ell worth 6000 florens.</p>
+            <p>Let us leave him, and see that cove<g ref="char:EOLhyphen"/>tousnesse be not crept over into <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> looke we into the Church, what meane the heaping up of Ecclesiasticall preferments, pluralities, Simonies, <hi>&amp;c.</hi> If all these proceed not from the root of covetousnesse, pardon my igno<g ref="char:EOLhyphen"/>rance, I know not whence they come:
+<pb n="64" facs="tcp:119647:34"/>But you will say, you wounder I am not afraid to charge such men with co<g ref="char:EOLhyphen"/>vetuousnesse.</p>
+            <p>I answer, I dare not but speak, what I thinke, being this day set upon the watch Tower of the house of <hi>Levi,</hi> and espying an evill, how shall I hold my pece?</p>
+            <p>This is a thing reproved even by our adversaries themselves. In a Lateran Councell 310 Bishops, being present under <hi>Alexander</hi> the third, it was con<g ref="char:EOLhyphen"/>cluded; that no Priest should have two Benefices. <hi>Anno</hi> 1179. Again <hi>Richard</hi> the costly Arch-bishop of <hi>Canterbury</hi> complaines to the Pope, that Priests in <hi>England</hi> held more livings than one, <hi>An.</hi> 1231. And though it hath beene thought that many livings are a good step to a Bishoprick: yet have I read of one <hi>John Blund,</hi> elected Archbishop of <hi>Canterbu.</hi> But refused by the Pope; the chief thing objected against him, for holding two Benefices without dispensation, <hi>Anno</hi> 1233. <hi>John Pecham</hi> Arch-bishop made
+<pb n="65" facs="tcp:119647:34"/>a Canon, that no Clergy man within his Province should hold two livings. <hi>Anno</hi> 1304.</p>
+            <p>If I should tell you what our modern riters have said touching this you will say they speake more bitter than the rate of Charity will allow of: that non residents are like whores that put forth their children to nurse, that they may take the greater pleasure.</p>
+            <p>But I leave these and desire to aske you a question or two, in the words of a learned man; Whether ought not all our works to be done in Charity?</p>
+            <p>Answer yes, whatsoever is not done in Charity is nothing worth.</p>
+            <p>The second question whether it be greater Charity to have two livings than one, two great ones than two small ones: I thinke it would make <hi>Democritus</hi> weep to heare a Clergy man step up to prove that he holdeth two livings in Charity: But if it bee granted, that it is greater Charity to hold two than one, then are all offen<g ref="char:EOLhyphen"/>ders,
+<pb n="66" facs="tcp:119647:35"/>that are contented with one; as men that aspire not to the greatest Cha<g ref="char:EOLhyphen"/>rity. But I leave these things to your farther consideration: My prayer shal be, that this scandall may be remo<g ref="char:EOLhyphen"/>ved far from us.</p>
+            <p>Now let us see whether covetous<g ref="char:EOLhyphen"/>nesse be not in the Countrey people al<g ref="char:EOLhyphen"/>so; from whence proceed frauds, and deceits, if not from covetousnesse? Is it not covetousnesse to love the World more than we love God? Search then your hearts and consider, whether you have not taken more pains to get, more care to keep the meat that perisheth, than that which endureth un<g ref="char:EOLhyphen"/>to eternall life.</p>
+            <p>My exhortation comes now in sea<g ref="char:EOLhyphen"/>son; you have a work in hand, to take away Images, Crucifixes and Idoles of wood, glasse and stone.</p>
+            <p>I condemne you not, I would all such offences had been long ago thrown in<g ref="char:EOLhyphen"/>to the bottom of the Sea.</p>
+            <p>But I desire to informe you, There is
+<pb n="67" facs="tcp:119647:35"/>a corner in the temple, wherein stands a great Idol: I meane the temple of your bodies: Son of man, this people hath set up an Idoll in their heart; What this I<g ref="char:EOLhyphen"/>dol may be called, I have not in a readi<g ref="char:EOLhyphen"/>nesse, but the act of this Idolatry is co<g ref="char:EOLhyphen"/>vetousnesse: <hi>Therefore let covetous<g ref="char:EOLhyphen"/>nesse, which is Idolatry, Ephes.</hi> 5. <hi>be first abandoned:</hi> And then go on according to Law, and Order: But otherwise both you, and your worke, will be<g ref="char:EOLhyphen"/>come ridiculous.</p>
+            <p>Do you not remember what was whispered at the Assize some yeares past? Namely, that the great malefa<g ref="char:EOLhyphen"/>ctors condemned the little ones. This it may be was but too true: Take heed least some such thing be said of you, that Idolaters pluck down Images, and that they that hugge the Idoll <hi>Mammon</hi> in their heart are forward to pull down Idols of glasse and stone.</p>
+            <p>Now follows <hi>John's</hi> Conversation affirmatively.</p>
+            <pb n="68" facs="tcp:119647:36"/>
+            <p>Here two things are worthy our con<g ref="char:EOLhyphen"/>sideration.</p>
+            <list>
+               <item>First, his apparell.</item>
+               <item>Secondly, his meat and drink.</item>
+            </list>
+            <p>First, his apparrell, Camels haire and a leather girdle about his loynes: I must not say with <hi>Eusebius inusitatum indutus habitum, John</hi> in a strange habit. For I beleeve it ordinary for Prophets to weare such garments, <hi>Elias is an hairy man,</hi> &amp;c. 2. <hi>King,</hi> 1.8. <hi>he that comes in the spirit and power of Elias, comes also in the garments of Elias. Prophets were wont to weare rough gariments, Zach.</hi> 13.4. We see then <hi>John</hi> as neither Velvet nor Silken Priest, this teacheth mode<g ref="char:EOLhyphen"/>sty in apparrell to all, both Ministers and People. <hi>John was an hairy man,</hi> so are many in our dayes; but it is haire of the head, not of the garments: I tell you that courser garments, and shorter haire is better beseeming Ministers of God, than ruffling silkes and long haire.</p>
+            <p>What may be the reason why Saint
+<pb n="69" facs="tcp:119647:36"/>
+               <hi>Peter</hi> giveth precepts of this kind rather to women than men? Is it not because excesse in this kind is a womanish and childish vice, unbeseeming men pro<g ref="char:EOLhyphen"/>fessing Christianity? Let us take heed these things prove not a block to our Charity; full ill would thou endure to sell thy lands, that canst not spare thy superfluities, to cloath the naked members of Christ Iesus.</p>
+            <p>Secondly, <hi>John's</hi> Temperance in meat and drink. His drink neither wine nor strong drink: What then? Even fresh water of <hi>Iordan,</hi> his meat Locusts. <hi>Genus cancrorum,</hi> so <hi>Magdeburgenses;</hi> But I dare not consent to this: It is observed by some, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Lo<g ref="char:EOLhyphen"/>custs,</hi> signifieth two things.</p>
+            <p>First, small living creatures like our <hi>Grashoppers,</hi> which were permitted by the Law to be eaten, <hi>Lev.</hi> 11.22.</p>
+            <p>Or else it signifieth <hi>summitates herba<g ref="char:EOLhyphen"/>rum,</hi> the tops of hearbs.</p>
+            <p>I leave these things to you, which way soever we take, it comes to this;
+<pb n="70" facs="tcp:119647:37"/>that <hi>John</hi> used a slender dyet: <hi>Luke</hi> 7. <hi>John's</hi> practise is no precept, neither doth it take away our Christian liberty herein, yet it sufficeth to condemne our excesse and riot, when we <hi>rise up early to drink wine, and sit till night, till we bee inflamed.</hi> A breach that is made both by Ministers and People.</p>
+            <p>Who would have thought that the true Church of Christ should have been troubled with such a swinish brood? Had I a hundred mouths and as many tongues, I could not expresse the lewdnesse of this generation: what censure on earth sharp enough? What place in Hell deep enough? Why are ye not ashamed of your doings? <hi>Lingua struunt, manu destruunt.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>The voyce is Jacob's voyce, but the hands are the hands of Esau.</hi> I may well com<g ref="char:EOLhyphen"/>pare you to <hi>Penelope,</hi> for you weave her web: Did I say compare you to her? You are farre worse. She unweaved no more in that night than she wea<g ref="char:EOLhyphen"/>ved
+<pb n="71" facs="tcp:119647:37"/>in the day time; But you by your abominable works of darknesse, pull down more in the night than seven of the most laborious of your brethren, can build in the day: We reade of <hi>John Cremensis</hi> Legate Here in <hi>England, Anno</hi> 1129, When he had disputed at <hi>London,</hi> for Chastity of Priests (as it was then called) <hi>ad ravim &amp; sudorem,</hi> was taken the same night in bed with a notable whore.</p>
+            <p>This I beleeve, gave solutiō to all his arguments. Thus do you in some case dissolve in the Taverne, that which you confirmed in the Pulpit, making a mock at the ordinances of God, and seducing those by your conversation, for whom CHRIST died.</p>
+            <p>I must call upon those that are in au<g ref="char:EOLhyphen"/>thority, that they would make diligent search after these Foxes, that they may bee unkenneled, and hunted out of Gods Vineyard: for they spoyle the Vines, and crush the ten<g ref="char:EOLhyphen"/>der Grapes.</p>
+            <pb n="72" facs="tcp:119647:38"/>
+            <p>If the Courts had been so vigilant to find out these as non conformable Mi<g ref="char:EOLhyphen"/>nisters, surely by this time the Church would have been as free from them, as the Land from Wolves. But they have preferred the Traditions of men, before the Commandements of Almighty God.</p>
+            <p>And therefore I shall lesse wonder, if the Lord require it at your hands; And I tell you that conformity hath e<g ref="char:EOLhyphen"/>ver sped the worse for their sakes, who breaking the Commandements of God, thinke to make amends with con<g ref="char:EOLhyphen"/>formity to the Traditions of men.</p>
+            <p>Thus much for <hi>Iohn's</hi> meat, drinke, and apparrell, the imitation whereof hath some times deserved no small commendations; for thus is was long ago written in memory of <hi>Berrengarius,</hi>
+            </p>
+            <q>
+               <l>Cui vestis textura, rudis, cui non fuit unquam,</l>
+               <l>Ante Sitim potus, nec cibus, Ante famem.</l>
+            </q>
+            <pb n="73" facs="tcp:119647:38"/>
+            <p>Thus have I done with the first part of my Text, the Minister; I come now to the second the People. And here are two things.</p>
+            <p>First, the Persons.</p>
+            <p>Secondly, their reprehension.</p>
+            <p>The persons ye, What ye? the drunken <hi>Rabble?</hi> the lewd sons of <hi>Be<g ref="char:EOLhyphen"/>liall?</hi> No, who then? Even the zea<g ref="char:EOLhyphen"/>lous people, they that are zealous for the Sabbath day; for they are ready to kill our Saviour, for healing on the Sabbath. Zealous for the glory of God according to their knowledge, for they tooke up stones to stone him, because he hath said that he was the sonne of God. Is not here confirmed that which was said before, that Zeale and Devo<g ref="char:EOLhyphen"/>tion without the knowledge of Christ, maketh a man much more than ordi<g ref="char:EOLhyphen"/>nary child of Hell. Who would have thought, but zeale for the Sabbath, and God, had been an undoubted marke of Salvation; but you see the contrary, that zeale without knowledge will take
+<pb n="74" facs="tcp:119647:39"/>up stons to stone the Lord of life. How may they then be deceived, that look<g ref="char:EOLhyphen"/>ing upon the alteration of their conver<g ref="char:EOLhyphen"/>sation, they were drunkards, now they are not; they were profaners of Gods Sabbath, now not; but now ready with <hi>Archimedes</hi> to cry, <hi>I have it,</hi> and to be rapt into the third Heavens. But I desire you to consider, <hi>Rom.</hi> 10.3. where of the hardned Iews it is said: They have a zeale to God: From hence we might take occasion to dis<g ref="char:EOLhyphen"/>cusse these questions.</p>
+            <p>First, whether a desire to be saved be an infallible note of salvation. Second<g ref="char:EOLhyphen"/>ly, whether a desire to beleeve be Faith it selfe, the safest way is to say no; but I leave these to you, &amp; desire you to con<g ref="char:EOLhyphen"/>sider more of them. A 3 question would here also be handled. <hi>Whether when Faith lies hid, that we cannot see, that wee beleeve by the inward testimony of our con<g ref="char:EOLhyphen"/>science, that it is possible our works of Piety, or Charity can assure us of Salvation.</hi> I say no, and my reasons are these.</p>
+            <pb n="75" facs="tcp:119647:39"/>
+            <p n="1">1 That which makes me doubt of my Faith, will make me doubt of the sincerity of my work. 2 How is it pos<g ref="char:EOLhyphen"/>sible I should judge my work sincere when I cannot see I beleeve, whatsoe<g ref="char:EOLhyphen"/>ver is not of Faith is sin. 3 What works are done in Faith, that the same acts may not be done in the spirit of bondage?</p>
+            <p>If you say that the actions indeed are the same, but they differ in the end: I grant it, and in the efficient also: But as I cannot discerne the efficient, so neither can I discern the end of my work, when I cannot discern, I beleeve upon these grounds, I am bold to determine the question negatively.</p>
+            <p>Ob <hi>But I doubt there are some will say; what meanes this preacher, will he take a<g ref="char:EOLhyphen"/>way the Sabbath?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> No, though I deny zealous ob<g ref="char:EOLhyphen"/>servation of the Sab: to be an infallible marke of salvatiō, yet I account the wil<g ref="char:EOLhyphen"/>full profanatiō of the Sab: to be a token and sign of a reprobate sence: and mark <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, who so is a profaner of Gods Sabbath
+<pb n="76" facs="tcp:119647:40"/>shall be rewarded in this lif, with a soule voyde of the true knowledge of God, a conversation voyd of good man<g ref="char:EOLhyphen"/>ners.</p>
+            <p>The Sabbath is a command of God morall and perpetuall, which shall ne<g ref="char:EOLhyphen"/>ver end: The day of the Sabbath is by Apostolicall constitution, though not Divine precept, and we are bound to keep this first day with all reve<g ref="char:EOLhyphen"/>rence.</p>
+            <p>The breach of the Sabbath is no light offence, as appeareth by the Law; wherein punishments are proportio<g ref="char:EOLhyphen"/>nable to the offence; The Law admits no sacrifice for Sabbath breakers, <hi>He<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that doth any servile work shall dye the death, Exod.</hi> 35.2. and the stick gathe<g ref="char:EOLhyphen"/>rer payd for it. How zealous is God for his Sabbath that suffers not the breach of one day to go unpunished as 2 <hi>Chron.</hi> 36 21.</p>
+            <p>The Captivity of <hi>Iudah,</hi> in <hi>Babilon,</hi> continues so long till the land had en<g ref="char:EOLhyphen"/>joyed her Sabbath; the Kingdome of
+<pb n="77" facs="tcp:119647:40"/>
+               <hi>Judah</hi> begins with <hi>David,</hi> ends in <hi>Ze<g ref="char:EOLhyphen"/>dekiah,</hi> continues about the space of 490 yeares; now as 7 yeares makes one yeare of Sabbaths, so 490 yeares makes 70; for divide 490 by 7 and the quotient is 70. I am not against the Sabbath.</p>
+            <p>Now followes the peoples repre<g ref="char:EOLhyphen"/>hension, for a season to rejoyce in his light: We will here search the reason of two things.</p>
+            <p>First, Why they rejoyc'd in his light at any time.</p>
+            <p>Secondly, Why they rejoyce not in his light at all times?</p>
+            <p>First, Why do they rejoyce in it at any time.</p>
+            <p>
+               <hi>Iohn's</hi> Doctrine was a new Doctrine, and we know new things please excee<g ref="char:EOLhyphen"/>dingly; the <hi>Athenians</hi> desire some new thing, <hi>Acts</hi> 17.</p>
+            <p>A Gentleman had in his stable two Horses, one a very good one, but an old servant, the other a Iade, but newly bought; the old is neglected, the new
+<pb n="78" facs="tcp:119647:41"/>hath all the respect: the Groome sees no other reason of his Masters will, but the nature of man to pre<g ref="char:EOLhyphen"/>ferre new things before old. Thus might it be, that this people might embrace the Doctrine of <hi>John,</hi> not because of that excellency: which was indeed in it; but by reason of the novelty.</p>
+            <p>Do we not see it so with us? A new Preacher is the man, worth se<g ref="char:EOLhyphen"/>ven old, and a stranger worth seven Prophets in their own Countrey, and let mee tell you, I am afraid that the multitude coveting alteration of discipline (I do not charge all) is rather swayd by novelty than sound Iudgement.</p>
+            <p>Secondly, It might be their judge<g ref="char:EOLhyphen"/>ments might be astonied at the Ma<g ref="char:EOLhyphen"/>jesty of the Word of God, as it hap<g ref="char:EOLhyphen"/>peneth sometimes to the wicked, as we read of <hi>Simon, Acts</hi> 8.13.</p>
+            <p>First, Why did they not rejoyce always in his light?</p>
+            <pb facs="tcp:119647:41"/>
+            <p>First <hi>Persecution ariseth, by and by, they are offended, Math.</hi> 13.21. A peaceable Gospell is like the rich that have many friends; But a persecuted Gospell, like the poore man that is forsaked. <hi>John</hi> is in prison, and now times are troublesome, and 'tis dange<g ref="char:EOLhyphen"/>rous to be esteemed on of his favorers. Thus are men like swallows in religion that are with us in Summer, but the first morning frost or flight of Snow drives them away, and they are no more seen.</p>
+            <p n="2">2 Reason, they want root and ther<g ref="char:EOLhyphen"/>fore are soon shaken: Having recei<g ref="char:EOLhyphen"/>ved the Word into their mouths not into their hearts, into their pro<g ref="char:EOLhyphen"/>fession, not into their affection: I must not prosecute these any farther; but give you one exhortation, that ye take heed that you be not like those temporary professors: <hi>Like chidren tossed too and fro, with every wind of do<g ref="char:EOLhyphen"/>ctrine, Eph.</hi> 4.14. Of one religion to day
+<pb n="80" facs="tcp:119647:42"/>and another to morrow, like waxe that takes the impression of the last scale, that <hi>you bee no clouds without water carried about with every wind, Jude</hi> 12 Nor <hi>with the Galathians, soon re<g ref="char:EOLhyphen"/>moved, Gal.</hi> 1.6. But <hi>that being groun<g ref="char:EOLhyphen"/>ded and setled, yee be not moved away from the hope of the Gospell, Cob.</hi> 1.23. But being rooted and built up in them, and stablished in the Faith, <hi>Col.</hi> 2.7. that so ye may be not like the Bull-rush, yeeld out to every blast; But like the <hi>Cedar,</hi> which is hardly or rather like Mount <hi>Zion,</hi> which cannot be remo<g ref="char:EOLhyphen"/>ved; <hi>They that put their trust in the Lord shall be like Mount Zion, which can<g ref="char:EOLhyphen"/>not be removed, Psal.</hi> 125.1.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:119647:42"/>
+            <head>Errata,</head>
+            <p>
+               <hi>PAge</hi> 5. <hi>lin.</hi> 2. <hi>read</hi> naughty people <hi>p.</hi> 15. <hi>re.</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>p.</hi> 25. <hi>l.</hi> 8. <hi>r.</hi> new Law. <hi>p.</hi> 35. <hi>l.</hi> 2. <hi>r.</hi> sight of God <hi>l.</hi> 25 <hi>r.</hi> leane unto. <hi>p.</hi> 39. <hi>l.</hi> 3. <hi>r.</hi> fruits worthy, <hi>for</hi> fraile wooly. <hi>p.</hi> 42. <hi>l.</hi> 3. <hi>r.</hi> had rather. <hi>l.</hi> 13. <hi>r.</hi> conceits. <hi>p.</hi> 48. <hi>lin.</hi> 21. <hi>read</hi> pulpits. <hi>p.</hi> 52. <hi>l.</hi> 21. <hi>r.</hi> now is, is in. <hi>p.</hi> 59. <hi>l.</hi> 24. <hi>r.</hi> if I preach.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
